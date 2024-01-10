@@ -19,3 +19,8 @@ body {
 table {
     margin-left:10px;
 }
+
+h3{
+    text-align: right;
+    color: blue;
+}
