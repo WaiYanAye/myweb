@@ -24,3 +24,11 @@ h3{
     text-align:right;
      color: blue;
 }
+button {
+    border: 5px solid green;
+    cursor:pointer;
+    background-color: pink;
+}
+button:hover{
+    background:#fff;
+}
